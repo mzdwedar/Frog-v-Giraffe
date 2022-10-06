@@ -1,0 +1,6 @@
+tensorflow
+kaggle
+pandas
+flask
+docker
+docker-compose
